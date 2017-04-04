@@ -8,7 +8,7 @@ endif
 
 let g:colors_name = "frozendaiquiri"
 
-" specific colors
+" Specific colors
 hi CursorLine                  guibg=#2d2d2d
 hi ColorColumn                 guibg=#2d2d2d
 hi CursorColumn                guibg=#2d2d2d
@@ -47,7 +47,7 @@ hi Error      guifg=#ff8080 guibg=#a06060 gui=bold
 hi Todo       guifg=#80a0ff guibg=#606060 gui=bold
 hi Search     guifg=#f0f0f0 guibg=#404080
 
-" Diff colores
+" Diff colors
 hi DiffAdd    guifg=#e0e0e0 guibg=#660000
 hi DiffChange guifg=#e0e0e0 guibg=#666600
 hi DiffDelete guifg=#e0e0e0 guibg=#000066
