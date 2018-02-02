@@ -23,11 +23,14 @@ hi NonText      guifg=#808080 guibg=#202020 gui=none
 hi LineNr       guifg=#808080 guibg=#202020 gui=none
 hi StatusLine   guifg=#ddddee guibg=#404060 gui=bold
 hi StatusLineNC guifg=#9999aa guibg=#404060 gui=none
+hi TabLine      guifg=#7777aa guibg=#202020 gui=underline
+hi TabLineFill  guifg=#202020 guibg=#202020 gui=underline
+hi TabLineSel   guifg=#9999ff guibg=#202020 gui=underline,bold
 hi VertSplit    guifg=#444444 guibg=#444444 gui=none
 hi Folded       guifg=#a0a8b0 guibg=#202020 gui=none
 hi Title        guifg=#b6cbf2 guibg=NONE    gui=bold
 hi Visual       guifg=#e4e6ff guibg=#3a3c41 gui=none
-hi SpecialKey   guifg=#808080 guibg=#202020 gui=none
+hi SpecialKey   guifg=#404040 guibg=#202020 gui=none
 hi CursorLineNr guifg=NONE
 
 " Syntax highlighting
